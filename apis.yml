@@ -1,0 +1,32 @@
+aid: git-io
+name: Git.io
+description: "Git.io URL shortener"
+url: https://github.blog/2011-11-10-git-io-github-url-shortener/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Git.io
+    description: "Git.io URL shortener"
+    humanURL: https://github.blog/2011-11-10-git-io-github-url-shortener/
+    baseURL: https://github.blog/2011-11-10-git-io-github-url-shortener/
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://github.blog/2011-11-10-git-io-github-url-shortener/
+common:
+  - type: Website
+    url: https://github.blog/2011-11-10-git-io-github-url-shortener/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
