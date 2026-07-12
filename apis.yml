@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://github.blog/2011-11-10-git-io-github-url-shortener/
 common:
+  - type: DomainSecurity
+    url: security/git-io-domain-security.yml
   - type: Website
     url: https://github.blog/2011-11-10-git-io-github-url-shortener/
   - type: PublicAPIsListing
