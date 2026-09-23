@@ -1,0 +1,36 @@
+# Front Door AI Index — git-io — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: git-io
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: github.blog
+  final_host: github.blog
+  ownership: own
+  owner: git-io
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 81
+  host_score: 81
+  density: 33.64
+  words: 2408
+  tiers:
+    agentic: 26
+    core: 55
+    model: 0
+  ambiguous: 13
+  top_terms:
+    AI: 36
+    copilot: 21
+    ML: 10
+    agent: 9
+    generative ai: 3
+    LLMs: 2
+    RAG: 2
+    artificial intelligence: 2
+    automation: 2
+    intelligence: 2
+    machine learning: 2
+    retrieval-augmented: 2
