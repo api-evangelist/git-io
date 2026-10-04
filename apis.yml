@@ -39,7 +39,6 @@ apis:
   - name: Git.io
     description: "Git.io URL shortener"
     humanURL: https://github.blog/2011-11-10-git-io-github-url-shortener/
-    baseURL: https://github.blog/2011-11-10-git-io-github-url-shortener/
     tags:
       - URL Shorteners
     properties:
